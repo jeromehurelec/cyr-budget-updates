@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 5,
-  "versionName": "1.3.0",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.3.0/CyR-Budget-1.3.0.apk",
-  "sha256": "c9328eebb275ef60f7b026341036a942afe586e4122818e7b83d543e30f27869",
+  "versionCode": 6,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.4.0/CyR-Budget-1.4.0.apk",
+  "sha256": "16e58d88d0c17814f85850d1723f9025f5e44cf480fe5be78995af6626d19c92",
   "size": 1448797,
-  "notes": "Récurrences personnalisées : intervalle en mois, par exemple tous les deux mois ; limite de dix mensualités ou autre nombre choisi ; date de fin possible. Dernière date affichée avant validation. Opérations et récurrences existantes conservées."
+  "notes": "Récurrences mensuelles avec cases à cocher : sélectionner précisément les mois et les années. Seuls les mois cochés sont créés. Récapitulatif de la sélection, conservation des données et des anciens réglages."
 }

@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 4,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.2.0/CyR-Budget-1.2.0.apk",
-  "sha256": "99cf52ff044c6df7ff636a51e0712ac2e0f399e1655cafb691f68156e7c25601",
-  "size": 1432413,
-  "notes": "Nouveau visuel anthracite et bleu validé : accueil, cartes arrondies, raccourcis de saisie, calendrier détaillé, filtres et détail des opérations. Ouverture directe, données conservées et mises à jour automatiques."
+  "versionCode": 5,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.3.0/CyR-Budget-1.3.0.apk",
+  "sha256": "c9328eebb275ef60f7b026341036a942afe586e4122818e7b83d543e30f27869",
+  "size": 1448797,
+  "notes": "Récurrences personnalisées : intervalle en mois, par exemple tous les deux mois ; limite de dix mensualités ou autre nombre choisi ; date de fin possible. Dernière date affichée avant validation. Opérations et récurrences existantes conservées."
 }

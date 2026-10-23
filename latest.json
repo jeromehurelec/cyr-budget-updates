@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 3,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.1.0/CyR-Budget-1.1.0.apk",
-  "sha256": "eb45211ec5c606898026b7eb5e301010b08f40e8fc9188a56640f8368ddcb89d",
-  "size": 1448793,
-  "notes": "Ouverture directe sans empreinte ni code. Recherche et téléchargement automatiques des nouvelles versions. Comptes, opérations, crédits et suivis personnels conservés."
+  "versionCode": 4,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.2.0/CyR-Budget-1.2.0.apk",
+  "sha256": "99cf52ff044c6df7ff636a51e0712ac2e0f399e1655cafb691f68156e7c25601",
+  "size": 1432413,
+  "notes": "Nouveau visuel anthracite et bleu validé : accueil, cartes arrondies, raccourcis de saisie, calendrier détaillé, filtres et détail des opérations. Ouverture directe, données conservées et mises à jour automatiques."
 }

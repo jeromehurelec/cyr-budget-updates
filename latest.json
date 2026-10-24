@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 8,
-  "versionName": "1.5.1",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.5.1/CyR-Budget-1.5.1.apk",
-  "sha256": "ad42ddfa203f3fea676290af07e3f79ff9a0f98e65d11c5639a9e6198de00387",
-  "size": 1448797,
-  "notes": "Recherche et téléchargement des nouvelles versions à chaque ouverture, sur Wi-Fi ou données mobiles. Suppression des deux anciens réglages. Conservation des mises à jour déjà téléchargées hors ligne. Android demande de confirmer chaque installation."
+  "versionCode": 9,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.6.0/CyR-Budget-1.6.0.apk",
+  "sha256": "9ea59e47cf5b4c4fa9e28aedcd0c2ed59ae82339f1793ea16624ccead2f605a0",
+  "size": 31044497,
+  "notes": "Scanner réel des échéanciers par photos, entièrement sur le téléphone et hors ligne. Choix des colonnes, assurance séparée, correction et validation avant ajout. Préservation des anciennes échéances et reprise au retour de la caméra. Mises à jour à chaque ouverture conservées."
 }

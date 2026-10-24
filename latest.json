@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 21,
-  "versionName": "1.11.1",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.1/CyR-Budget-1.11.1.apk",
-  "sha256": "66b5f7298e9d051abaf2b7826c250499d1260dc68414a7015205eeb093246f1d",
+  "versionCode": 22,
+  "versionName": "1.11.2",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.2/CyR-Budget-1.11.2.apk",
+  "sha256": "59f51d5fae15dd3ad98c01fd8428c4d768add0331adebdf68d0b23d1f93dcf0e",
   "size": 32693481,
-  "notes": "Widget deux fois moins haut, avec courant, fin de mois et Livret A côte à côte. Le ticket ouvre une petite fenêtre avec Montant et Nom uniquement ; compte courant, date du jour et aucune catégorie par défaut. Enregistrer actualise le widget et ferme la fenêtre ; Annuler ne modifie rien. Redimensionner ou réajouter le widget pour adopter sa nouvelle taille. Installer sans désinstaller l’application."
+  "notes": "Correction de la détection des mises à jour : lecture de l’annonce via l’API officielle GitHub avec requêtes sans cache, pour éviter l’ancienne réponse 1.11.0 encore servie par l’adresse raw. Le widget compact et la fenêtre Montant + Nom sont conservés. Si l’application ne détecte pas cette version, installer cet APK manuellement par-dessus l’application, sans la désinstaller."
 }

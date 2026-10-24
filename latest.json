@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 19,
-  "versionName": "1.10.0",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.10.0/CyR-Budget-1.10.0.apk",
-  "sha256": "348de54764e41c0190f3d90777c5e2666b6497c9997303732382f20e55e7a092",
-  "size": 32690301,
-  "notes": "Virements récurrents entre comptes : Virement → Options → Répétition, avec mois cochés et nombre de mensualités facultatif. Chaque échéance débite la source et crédite le destinataire sans compter comme revenu ou dépense. Suppression du bouton Ouvrir le calendrier en bas de l’accueil. Migration des données existantes incluse ; installer sans désinstaller."
+  "versionCode": 20,
+  "versionName": "1.11.0",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.0/CyR-Budget-1.11.0.apk",
+  "sha256": "0878d4445aefae83ebcd45e0ac54eb638d7aab4ff88847005a84090b553910e3",
+  "size": 32693229,
+  "notes": "Nouveau widget : solde actuel du compte courant, fin de mois prévue et solde du Livret A. Design bleu nuit-turquoise, solde vert menthe et deux encarts colorés. Le ticket de caisse blanc sur fond rose ouvre directement l’ajout d’une dépense, sans texte sur le bouton. Installer sans désinstaller la version précédente."
 }

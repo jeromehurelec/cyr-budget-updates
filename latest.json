@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 17,
-  "versionName": "1.9.2",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.9.2/CyR-Budget-1.9.2.apk",
-  "sha256": "84c46e572a6ffa5205daaa1173174aab5311d08b61112892f88707fb4ff691b7",
+  "versionCode": 18,
+  "versionName": "1.9.3",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.9.3/CyR-Budget-1.9.3.apk",
+  "sha256": "5c4c11d27ca282e3ad24fc68c0d578266c86f3bd7abb2fc0f202602b28b813c2",
   "size": 32690301,
-  "notes": "Le filtre Tout affiche désormais les opérations à venir des plus proches aux plus lointaines, puis les opérations réalisées des plus récentes aux plus anciennes. Le tri tient compte de la pagination. Les cartes colorées sont conservées. Installer sans désinstaller la version précédente."
+  "notes": "Accueil allégé : suppression du bouton redondant + Ajouter une opération en bas de page. Les quatre raccourcis Entrée, Dépense, Virement et Récurrence restent en haut. Installer sans désinstaller la version précédente."
 }

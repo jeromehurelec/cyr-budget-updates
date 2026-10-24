@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 11,
-  "versionName": "1.7.1",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.7.1/CyR-Budget-1.7.1.apk",
-  "sha256": "79132f8173fa78ceeb5d63b66b4927f328c31e8241e7c9166a9e84fe956c2c03",
+  "versionCode": 12,
+  "versionName": "1.7.2",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.7.2/CyR-Budget-1.7.2.apk",
+  "sha256": "6dcd1540a73f800776aad5eaf7736af9c16d28875ab9b682c0b742bce773ecc6",
   "size": 32516117,
-  "notes": "Correction de l’accueil : les prochaines opérations sont limitées au mois affiché. Une récurrence commençant le mois prochain reste absente du mois courant. Aucune opération financière déplacée ou supprimée. Installer la mise à jour sans désinstaller pour conserver les données."
+  "notes": "Correction de l’historique : seules les opérations passées et celles d’aujourd’hui sont affichées, de la plus récente à la plus ancienne. Les échéances futures restent dans le calendrier et les filtres Prévues des entrées et sorties. Données conservées ; installer sans désinstaller."
 }

@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 15,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.9.0/CyR-Budget-1.9.0.apk",
-  "sha256": "b80d46bb797b24ea068d41e8b541b9d15671669853423a116ad1a8ef51fe57ba",
-  "size": 32690301,
-  "notes": "Nouveau design : les 20 améliorations validées sont intégrées. Accueil compact, icônes blanches sur fonds colorés, thèmes sombre/clair/système, historique par jour, filtres retirables, détails en fiche, formulaires simplifiés, dates rapides, aperçu du document pendant la vérification OCR, échéancier compact et comparaisons mensuelles. Les données et fonctions précédentes sont conservées. Installer sans désinstaller."
+  "versionCode": 16,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.9.1/CyR-Budget-1.9.1.apk",
+  "sha256": "3e2b5bc9226bda7379fbd026555af7949078b7719afdfb4a3967a0320d461e78",
+  "size": 32690297,
+  "notes": "Cartes de l’accueil colorées : soldes bleu-turquoise et emprunts violet-indigo avec progression verte, en gardant leur format compact. Les opérations prévues sont affichées des plus proches aux plus lointaines ; l’historique conserve son ordre habituel. Installer par-dessus la version précédente pour conserver les données."
 }

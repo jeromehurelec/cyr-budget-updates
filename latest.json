@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 20,
-  "versionName": "1.11.0",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.0/CyR-Budget-1.11.0.apk",
-  "sha256": "0878d4445aefae83ebcd45e0ac54eb638d7aab4ff88847005a84090b553910e3",
-  "size": 32693229,
-  "notes": "Nouveau widget : solde actuel du compte courant, fin de mois prévue et solde du Livret A. Design bleu nuit-turquoise, solde vert menthe et deux encarts colorés. Le ticket de caisse blanc sur fond rose ouvre directement l’ajout d’une dépense, sans texte sur le bouton. Installer sans désinstaller la version précédente."
+  "versionCode": 21,
+  "versionName": "1.11.1",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.1/CyR-Budget-1.11.1.apk",
+  "sha256": "66b5f7298e9d051abaf2b7826c250499d1260dc68414a7015205eeb093246f1d",
+  "size": 32693481,
+  "notes": "Widget deux fois moins haut, avec courant, fin de mois et Livret A côte à côte. Le ticket ouvre une petite fenêtre avec Montant et Nom uniquement ; compte courant, date du jour et aucune catégorie par défaut. Enregistrer actualise le widget et ferme la fenêtre ; Annuler ne modifie rien. Redimensionner ou réajouter le widget pour adopter sa nouvelle taille. Installer sans désinstaller l’application."
 }

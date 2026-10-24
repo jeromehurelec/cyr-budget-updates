@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 14,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.8.0/CyR-Budget-1.8.0.apk",
-  "sha256": "f39710c50f392836d873f00a87e9fece6c423f8bca8618080dc87c609150c76d",
-  "size": 32551153,
-  "notes": "Neuf améliorations : sauvegarde et restauration locales, résumé mensuel par catégorie, fin estimée des emprunts, pause et reprise des récurrences, détection des doublons possibles, import PDF hors ligne, widget Android, annulation de suppression et récapitulatif avant modifications multiples. PDF : 6 pages et 20 Mo maximum, avec vérification obligatoire des dates et montants. Installer sans désinstaller pour conserver les données."
+  "versionCode": 15,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.9.0/CyR-Budget-1.9.0.apk",
+  "sha256": "b80d46bb797b24ea068d41e8b541b9d15671669853423a116ad1a8ef51fe57ba",
+  "size": 32690301,
+  "notes": "Nouveau design : les 20 améliorations validées sont intégrées. Accueil compact, icônes blanches sur fonds colorés, thèmes sombre/clair/système, historique par jour, filtres retirables, détails en fiche, formulaires simplifiés, dates rapides, aperçu du document pendant la vérification OCR, échéancier compact et comparaisons mensuelles. Les données et fonctions précédentes sont conservées. Installer sans désinstaller."
 }

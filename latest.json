@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 23,
-  "versionName": "1.11.3",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.3/CyR-Budget-1.11.3.apk",
-  "sha256": "d323210c6a4c85f9a09d858f80fd550fbf3bfaf76b86ff9c7f322b2ed2f7fadd",
-  "size": 32693549,
-  "notes": "Correction du widget : le fond reste limité à une carte compacte de 80 dp, même si le téléphone conserve un grand emplacement. Le ticket reste à droite des soldes au lieu de descendre au milieu de la zone. Pour libérer l’ancien grand emplacement, redimensionner ou retirer puis réajouter le widget sur l’accueil. Installer sans désinstaller l’application."
+  "versionCode": 24,
+  "versionName": "1.11.4",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.4/CyR-Budget-1.11.4.apk",
+  "sha256": "b87e675d91a3f0a8c31e78ad722c1389447aebe18c1f3e3e0a56239bb9e2b894",
+  "size": 32693577,
+  "notes": "Widget : ticket plus petit et aligné sur le haut et le bas des encarts de soldes. La zone tactile reste confortable et la fenêtre de dépense rapide est conservée. Installer sans désinstaller l’application."
 }

@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 26,
-  "versionName": "1.11.6",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.6/CyR-Budget-1.11.6.apk",
-  "sha256": "9d17310f6b01e4f5d57ffea42de997e002bbbd6c6a2504298f44881c4cdafd2d",
-  "size": 32709957,
-  "notes": "Correction de l’affichage des dépenses saisies via le widget dans l’application déjà ouverte, les sorties et l’historique. Les dépenses existantes sont conservées, sans ressaisie."
+  "versionCode": 27,
+  "versionName": "1.11.7",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.7/CyR-Budget-1.11.7.apk",
+  "sha256": "7df5151a39fbc44b9f625a8b9988b90966121c0b59938f656476436b72c41901",
+  "size": 32709961,
+  "notes": "Vérification générale : corrections des prévisions du compte courant, des doublons d’échéances et des catégories de crédits ; conservation des formulaires après rotation ; nettoyage des anciens installateurs et adresse de secours pour les mises à jour. Les dépenses du widget restent synchronisées, les données sont conservées."
 }

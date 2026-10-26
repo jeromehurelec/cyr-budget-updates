@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 25,
-  "versionName": "1.11.5",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.5/CyR-Budget-1.11.5.apk",
-  "sha256": "1872c8f41ae378ab5116be086c335cd8df04ac555bcc9e6adced90791ed3fd6e",
-  "size": 32693577,
-  "notes": "Ajout du bouton Partager l’application dans Plus. Le partage contient uniquement le lien de téléchargement : aucune donnée personnelle ni sauvegarde n’est jointe. Chaque personne configure son propre budget."
+  "versionCode": 26,
+  "versionName": "1.11.6",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.6/CyR-Budget-1.11.6.apk",
+  "sha256": "9d17310f6b01e4f5d57ffea42de997e002bbbd6c6a2504298f44881c4cdafd2d",
+  "size": 32709957,
+  "notes": "Correction de l’affichage des dépenses saisies via le widget dans l’application déjà ouverte, les sorties et l’historique. Les dépenses existantes sont conservées, sans ressaisie."
 }

@@ -1,9 +1,9 @@
 {
   "applicationId": "fr.cyr.budget",
-  "versionCode": 27,
-  "versionName": "1.11.7",
-  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.7/CyR-Budget-1.11.7.apk",
-  "sha256": "7df5151a39fbc44b9f625a8b9988b90966121c0b59938f656476436b72c41901",
+  "versionCode": 28,
+  "versionName": "1.11.8",
+  "apkUrl": "https://github.com/jeromehurelec/cyr-budget-updates/releases/download/v1.11.8/CyR-Budget-1.11.8.apk",
+  "sha256": "dea8c88c1f3b2d3d2b19c74c2ee6b1346be6c3be0efc3413e27b576688e9b6f3",
   "size": 32709961,
-  "notes": "Vérification générale : corrections des prévisions du compte courant, des doublons d’échéances et des catégories de crédits ; conservation des formulaires après rotation ; nettoyage des anciens installateurs et adresse de secours pour les mises à jour. Les dépenses du widget restent synchronisées, les données sont conservées."
+  "notes": "Correction des mises à jour : un installateur déjà téléchargé est conservé en cas de refus temporaire de GitHub ou d’erreur serveur. Vérification des calculs et des parcours de remboursement, widget et virements récurrents sur émulateur. Les données existantes sont conservées."
 }
